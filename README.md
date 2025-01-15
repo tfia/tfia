@@ -3,7 +3,7 @@
 ### Waka Stats (from Aug 2, 2023)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2032%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,12 +11,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      40 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/01/2025 18:42:01 UTC
+ Last Updated on 15/01/2025 18:41:33 UTC
 <!--END_SECTION:waka-->
