@@ -3,7 +3,7 @@
 ### Waka Stats (from Aug 2, 2023)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -24,5 +24,5 @@ WSL                      36 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 21/08/2025 09:57:34 UTC
+ Last Updated on 21/08/2025 18:47:24 UTC
 <!--END_SECTION:waka-->
