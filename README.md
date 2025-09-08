@@ -3,7 +3,7 @@
 ### Waka Stats (from Aug 2, 2023)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -11,12 +11,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 mins              ████████████░░░░░░░░░░░░░   48.78 % 
+Makefile                 3 mins              ████████████░░░░░░░░░░░░░   46.63 % 
+C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/09/2025 18:41:49 UTC
+ Last Updated on 08/09/2025 18:47:02 UTC
 <!--END_SECTION:waka-->
