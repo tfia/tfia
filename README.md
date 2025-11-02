@@ -3,8 +3,6 @@
 ### Waka Stats (from Aug 2, 2023)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2032%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -23,5 +21,5 @@ Windows                  2 hrs 8 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 02/11/2025 05:40:33 UTC
+ Last Updated on 02/11/2025 18:42:45 UTC
 <!--END_SECTION:waka-->
