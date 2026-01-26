@@ -1,6 +1,8 @@
-### Hi there 👋
+## Welcome ヾ(•ω•`)o
 
-### Waka Stats (from Aug 2, 2023)
+### My Coding Statistics 
+
+(Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C376%20hrs%2050%20mins-blue?style=flat)
