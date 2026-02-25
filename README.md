@@ -13,12 +13,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     3 hrs 12 mins       █████████████████████████   98.34 % 
+Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2026 19:29:48 UTC
+ Last Updated on 25/02/2026 19:31:53 UTC
 <!--END_SECTION:waka-->
