@@ -5,7 +5,7 @@
 (Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,17 +13,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        7 hrs 47 mins       ███████████████░░░░░░░░░░   59.59 % 
-P4                       2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-C++                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Typst                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+C                        6 hrs 33 mins       ███████████████░░░░░░░░░░   61.43 % 
+P4                       1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Makefile                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+C++                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Typst                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 💻 Operating System: 
-Windows                  12 hrs 49 mins      █████████████████████████   98.14 % 
-WSL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Windows                  10 hrs 7 mins       ████████████████████████░   94.81 % 
+WSL                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 
 
- Last Updated on 22/03/2026 19:01:10 UTC
+ Last Updated on 23/03/2026 19:25:54 UTC
 <!--END_SECTION:waka-->
