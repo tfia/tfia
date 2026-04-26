@@ -13,18 +13,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Other                    3 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Swift                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Python                   5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Other                    3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Swift                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 💻 Operating System: 
-Mac                      9 hrs 25 mins       ███████████████░░░░░░░░░░   60.44 % 
-Windows                  5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.76 % 
-WSL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Mac                      11 hrs 50 mins      █████████████████░░░░░░░░   69.06 % 
+Windows                  4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+WSL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 
 
- Last Updated on 25/04/2026 19:24:40 UTC
+ Last Updated on 26/04/2026 19:27:05 UTC
 <!--END_SECTION:waka-->
