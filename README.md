@@ -13,15 +13,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Objective-C              1 hr 18 mins        █████████████░░░░░░░░░░░░   53.39 % 
-Markdown                 52 mins             █████████░░░░░░░░░░░░░░░░   35.38 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-MATLAB                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Objective-C              1 hr 34 mins        ███████████░░░░░░░░░░░░░░   43.44 % 
+Markdown                 1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.09 % 
+Other                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+MATLAB                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2026 20:08:52 UTC
+ Last Updated on 07/05/2026 19:58:33 UTC
 <!--END_SECTION:waka-->
