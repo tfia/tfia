@@ -5,6 +5,8 @@
 (Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C553%20hrs%2029%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -23,5 +25,5 @@ Windows                  2 hrs 3 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 17/05/2026 19:43:10 UTC
+ Last Updated on 18/05/2026 20:11:16 UTC
 <!--END_SECTION:waka-->
