@@ -5,7 +5,7 @@
 (Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C553%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C554%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,17 +13,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-Other                    3 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-CMake                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+TypeScript               4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Other                    3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Markdown                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Python                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+CMake                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 💻 Operating System: 
-Mac                      13 hrs 2 mins       ██████████████████████░░░   86.41 % 
-Windows                  2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Mac                      13 hrs 7 mins       ██████████████████████░░░   89.87 % 
+Windows                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+WSL                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 
- Last Updated on 18/05/2026 20:11:16 UTC
+ Last Updated on 19/05/2026 20:12:44 UTC
 <!--END_SECTION:waka-->
