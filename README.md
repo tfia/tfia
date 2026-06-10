@@ -13,17 +13,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.18 % 
-Python                   2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Typst                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Markdown                 3 hrs 14 mins       ██████████████░░░░░░░░░░░   56.73 % 
+Other                    1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Typst                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+TSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      9 hrs 16 mins       ████████████████████████░   94.29 % 
-Windows                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Mac                      5 hrs 8 mins        ███████████████████████░░   90.14 % 
+Windows                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 ```
 
 
- Last Updated on 09/06/2026 20:25:52 UTC
+ Last Updated on 10/06/2026 21:05:41 UTC
 <!--END_SECTION:waka-->
