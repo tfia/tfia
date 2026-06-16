@@ -5,7 +5,7 @@
 (Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,5 +22,5 @@ WSL                      3 mins              ██████░░░░░�
 ```
 
 
- Last Updated on 15/06/2026 21:30:34 UTC
+ Last Updated on 16/06/2026 21:24:52 UTC
 <!--END_SECTION:waka-->
