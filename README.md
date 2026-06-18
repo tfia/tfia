@@ -13,14 +13,12 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 mins              ████████████████░░░░░░░░░   64.90 % 
-Rust                     3 mins              █████████░░░░░░░░░░░░░░░░   35.10 % 
+Rust                     3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              ████████████████░░░░░░░░░   64.90 % 
-WSL                      3 mins              █████████░░░░░░░░░░░░░░░░   35.10 % 
+WSL                      3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 20:33:56 UTC
+ Last Updated on 18/06/2026 20:43:30 UTC
 <!--END_SECTION:waka-->
