@@ -13,17 +13,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
-Python                   4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Other                    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-JSON                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Text                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
+Python                   4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Other                    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+JSON                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Text                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 💻 Operating System: 
-Mac                      17 hrs 52 mins      █████████████████████████   98.75 % 
-Windows                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Mac                      17 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 19:56:55 UTC
+ Last Updated on 14/07/2026 19:50:24 UTC
 <!--END_SECTION:waka-->
