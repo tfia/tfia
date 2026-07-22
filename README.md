@@ -5,7 +5,7 @@
 (Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C634%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,16 +13,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Other                    23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Python                   2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.86 % 
+Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 💻 Operating System: 
-Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/07/2026 19:58:46 UTC
+ Last Updated on 22/07/2026 19:51:34 UTC
 <!--END_SECTION:waka-->
