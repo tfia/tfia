@@ -5,50 +5,45 @@
 (Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C595%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2043%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
-Markdown                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Python                   4 hrs 31 mins       █████████████░░░░░░░░░░░░   52.27 % 
+Markdown                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 💻 Operating System: 
-Mac                      5 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 26 mins (97.41%)
+⏱ AI Coding Time: 8 hrs 32 mins (98.55%)
 
-✍️ 7,297 lines written by AI, 2 lines written by hand (99.97% AI-written)
+✍️ 10,378 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 107,045,539 Input Tokens, 396,407 Output Tokens
+🔤 200,170,520 Input Tokens, 612,586 Output Tokens
 
-💵 $550.59 Estimated AI Cost This Week
+💵 $977.32 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 38 AI Prompts
+🧠 8 AI Sessions, 96 AI Prompts
 
-GPT                      7,297 lines         █████████████████████████   99.74 % 
-Github-Copilot           19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GPT                      10,468 lines        █████████████████████████   100.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 6,514 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 14,322 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 20:03:14 UTC
+ Last Updated on 28/07/2026 19:59:39 UTC
 <!--END_SECTION:waka-->
