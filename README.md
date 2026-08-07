@@ -5,48 +5,44 @@
 (Calculated using Wakatime. Starting from Aug 2, 2023.)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2011%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2051%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.56 % 
-Other                    1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-C                        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Python                   2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.65 % 
+Markdown                 1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+C                        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 💻 Operating System: 
-Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 40 mins (94.63%)
+⏱ AI Coding Time: 5 hrs 15 mins (92.47%)
 
-✍️ 9,509 lines written by AI, 6 lines written by hand (99.94% AI-written)
+✍️ 8,532 lines written by AI, 3 lines written by hand (99.96% AI-written)
 
-🔤 170,361,467 Input Tokens, 503,246 Output Tokens
+🔤 122,803,484 Input Tokens, 398,849 Output Tokens
 
 💵 $837.86 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 44 AI Prompts
+🧠 9 AI Sessions, 31 AI Prompts
 
-GPT                      9,517 lines         █████████████████████████   100.00 % 
+GPT                      8,541 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,790 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 3,906 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 20:06:27 UTC
+ Last Updated on 07/08/2026 00:22:49 UTC
 <!--END_SECTION:waka-->
