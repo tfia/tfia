@@ -15,41 +15,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     4 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.75 % 
-C++                      2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Rust                     3 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.06 % 
+C++                      2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.59 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      7 hrs 15 mins       ███████████████████░░░░░░   74.33 % 
-Windows                  2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Mac                      4 hrs 51 mins       ████████████████░░░░░░░░░   65.41 % 
+Windows                  2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 15 mins (74.33%)
+⏱ AI Coding Time: 4 hrs 51 mins (65.41%)
 
-✍️ 3,992 lines written by AI, 232 lines written by hand (94.51% AI-written)
+✍️ 2,061 lines written by AI, 232 lines written by hand (89.88% AI-written)
 
-🔤 11,024,527 Input Tokens, 802,147 Output Tokens
+🔤 6,036,392 Input Tokens, 379,734 Output Tokens
 
-💵 $197.59 Estimated AI Cost This Week
+💵 $75.62 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 160 AI Prompts
+🧠 5 AI Sessions, 110 AI Prompts
 
-GPT                      4,074 lines         █████████████████████████   100.00 % 
+GPT                      2,133 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.51% of written lines came from AI
-📚 Verbose Prompter — average 16,138 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 8.7% of changed lines were hand-edited
+🤖 AI-Driven — 89.88% of written lines came from AI
+📚 Verbose Prompter — average 17,003 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 15.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 21:11:20 UTC
+ Last Updated on 03/09/2026 21:12:15 UTC
 <!--END_SECTION:waka-->
