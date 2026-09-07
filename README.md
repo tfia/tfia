@@ -15,18 +15,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 29 mins       █████████████████████████   100.00 % 
+C++                      4 hrs 31 mins       █████████████████████░░░░   83.87 % 
+Git Config               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 31 mins       █████████████████████░░░░   83.87 % 
+Mac                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 52 mins (16.13%)
+
+✍️ 137 lines written by AI, 366 lines written by hand (27.24% AI-written)
+
+🔤 920,796 Input Tokens, 84,747 Output Tokens
+
+💵 $33.76 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 22 AI Prompts
+
+GPT                      137 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 27.24% of written lines came from AI
+📚 Verbose Prompter — average 7,154 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 84.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 20:38:11 UTC
+ Last Updated on 07/09/2026 21:41:43 UTC
 <!--END_SECTION:waka-->
