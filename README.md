@@ -15,23 +15,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.26 % 
-Markdown                 1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-Git Config               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 1 hr 27 mins        ██████████████░░░░░░░░░░░   57.92 % 
+Git Config               41 mins             ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Mac                      2 hrs 30 mins       █████████████░░░░░░░░░░░░   51.74 % 
-Windows                  2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.26 % 
+Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 29 mins (51.39%)
+⏱ AI Coding Time: 2 hrs 29 mins (99.32%)
 
-✍️ 231 lines written by AI, 239 lines written by hand (49.15% AI-written)
+✍️ 231 lines written by AI, 32 lines written by hand (87.83% AI-written)
 
 🔤 2,055,590 Input Tokens, 129,502 Output Tokens
 
@@ -44,12 +43,12 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.15% of written lines came from AI
+🤖 AI-Driven — 87.83% of written lines came from AI
 📚 Verbose Prompter — average 5,050 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 69.53% of changed lines were hand-edited
+🚀 High AI Trust — 12.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 21:07:46 UTC
+ Last Updated on 12/09/2026 20:46:40 UTC
 <!--END_SECTION:waka-->
