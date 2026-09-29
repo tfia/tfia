@@ -15,39 +15,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    51 mins             █████████░░░░░░░░░░░░░░░░   35.01 % 
-Rust                     42 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-JSON                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JSON                     17 mins             ███████████████████░░░░░░   74.43 % 
+TOML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Rust                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 
 💻 Operating System: 
-Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (100.0%)
+⏱ AI Coding Time: 23 mins (100.0%)
 
-✍️ 326 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 53 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,617,069 Input Tokens, 108,242 Output Tokens
+🔤 516,358 Input Tokens, 46,642 Output Tokens
 
-💵 $59.96 Estimated AI Cost This Week
+💵 $22.89 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 65 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-GPT                      342 lines           █████████████████████████   100.00 % 
+GPT                      53 lines            █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,685 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📚 Verbose Prompter — average 3,159 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 23:25:34 UTC
+ Last Updated on 29/09/2026 22:30:02 UTC
 <!--END_SECTION:waka-->
