@@ -15,27 +15,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     39 mins             ██████████████████░░░░░░░   73.93 % 
-Other                    13 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Other                    13 mins             ███████████████████░░░░░░   74.56 % 
+Rust                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (100.0%)
+⏱ AI Coding Time: 18 mins (100.0%)
 
-✍️ 44 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 535,006 Input Tokens, 36,470 Output Tokens
+🔤 433,405 Input Tokens, 24,507 Output Tokens
 
-💵 $2.76 Estimated AI Cost This Week
+💵 $2.02 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-GPT                      45 lines            █████████████████████████   100.00 % 
+GPT                      18 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -45,5 +45,5 @@ GPT                      45 lines            ███████████�
 ```
 
 
- Last Updated on 17/10/2026 20:47:52 UTC
+ Last Updated on 18/10/2026 20:57:19 UTC
 <!--END_SECTION:waka-->
