@@ -15,35 +15,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 mins             ███████████████████░░░░░░   74.56 % 
-Rust                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Other                    13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (100.0%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
-✍️ 18 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 433,405 Input Tokens, 24,507 Output Tokens
+🔤 413,411 Input Tokens, 20,215 Output Tokens
 
-💵 $2.02 Estimated AI Cost This Week
+💵 $1.66 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-GPT                      18 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 80 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 20:57:19 UTC
+ Last Updated on 19/10/2026 22:32:36 UTC
 <!--END_SECTION:waka-->
